@@ -1,2 +1,1 @@
-# Data-Science
-sup Coursera peeps
+# Peer-graded Coursera Assignments
